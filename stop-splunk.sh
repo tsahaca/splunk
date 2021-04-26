@@ -1,0 +1,1 @@
+docker stop splunk_splunkenterprise_1

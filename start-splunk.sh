@@ -1,0 +1,1 @@
+docker start splunk_splunkenterprise_1
